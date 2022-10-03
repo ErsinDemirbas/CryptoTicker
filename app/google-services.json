@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529776814811",
+    "project_id": "cryptoticker-c95d8",
+    "storage_bucket": "cryptoticker-c95d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529776814811:android:d3454afe75cb7f34163afe",
+        "android_client_info": {
+          "package_name": "com.example.cryptoticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529776814811-0r91ac5qnv6rrvamm17bu551gjlt7v74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiOp1InxyCRvaqv6lXHVt2fBdlE_0YIhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529776814811-0r91ac5qnv6rrvamm17bu551gjlt7v74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
